@@ -1,6 +1,6 @@
-#Lending Club Usecase
+# Lending Club Usecase
 
-##Objective
+## Objective
 Lending Club Case study is about an organization that is invovled in approving providing loans to individuals, based on the application that come from them. Lending to a risky applicant who would not pay the money back would result in huge financial loss for the organization. This leads to the fact that a thorough risk analysis would be required before a loan is approved or disapproved. This decision making is primarily based on the analytics build on top of the data set. 
 
 The main objective is to be able to identify these risky loan applicants, then such loans can be reduced thereby cutting down the amount of credit loss. 
@@ -43,6 +43,6 @@ Consuming EDA as the primarily tool for performing these analysis and coming to 
 - Matplotlib
 - Seaborn
 
-##Contributors
+## Contributors
 - Prabir Kumar Malik 
 - Sreejith Rajashekaran
