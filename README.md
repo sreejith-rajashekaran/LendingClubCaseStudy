@@ -1,22 +1,35 @@
-# Project Name
-> Outline a brief description of your project.
+#Lending Club Usecase
 
+##Objective
+Lending Club Case study is about an organization that is invovled in approving providing loans to individuals, based on the application that come from them. Lending to a risky applicant who would not pay the money back would result in huge financial loss for the organization. This leads to the fact that a thorough risk analysis would be required before a loan is approved or disapproved. This decision making is primarily based on the analytics build on top of the data set. 
+
+The main objective is to be able to identify these risky loan applicants, then such loans can be reduced thereby cutting down the amount of credit loss. 
+Consuming EDA as the primarily tool for performing these analysis and coming to a dedicated concludsion is the aim of this case study. 
 
 ## Table of Contents
-* [General Info](#general-information)
-* [Technologies Used](#technologies-used)
-* [Conclusions](#conclusions)
-* [Acknowledgements](#acknowledgements)
+1. Basic visualization of data 
+2. Categorizing the data 
+3. Data Cleansing 
+4. Segmented Univariate Analysis
+5. Bivariate Analysis
+5. Deriving new Variables
+6. Plotting for visualization
+7. Filtering data 
+8. Correlation 
 
-<!-- You can include any other section that is pertinent to your problem -->
 
 ## General Information
 - Provide general information about your project here.
+  Project is primarily aimed at helping a lending organization come up with a data analysis model which can be help them mitigate risk of financial loss by lending loans to risky applicants. 
+  
 - What is the background of your project?
+  The usecase is primarily designed to evaluate our understanding of EDA and how to implement the various concepts that we learnt in solving a real world problem. 
+  
 - What is the business probem that your project is trying to solve?
+  Helping a lending organization make rational decisions on approving loans, to mitigate financial loss. 
+  
 - What is the dataset that is being used?
-
-<!-- You don't have to answer all the questions - just the ones relevant to your project. -->
+  Complete loan data for all loans issued through the time period 2007 t0 2011.
 
 ## Conclusions
 - Conclusion 1 from the analysis
@@ -24,29 +37,12 @@
 - Conclusion 3 from the analysis
 - Conclusion 4 from the analysis
 
-<!-- You don't have to answer all the questions - just the ones relevant to your project. -->
+## Libraries Used
+- Numpy 
+- Pandas 
+- Matplotlib
+- Seaborn
 
-
-## Technologies Used
-- library - version 1.0
-- library - version 2.0
-- library - version 3.0
-
-<!-- As the libraries versions keep on changing, it is recommended to mention the version of library used in this project -->
-
-## Acknowledgements
-Give credit here.
-- This project was inspired by...
-- References if any...
-- This project was based on [this tutorial](https://www.example.com).
-
-
-## Contact
-Created by [@githubusername] - feel free to contact me!
-
-
-<!-- Optional -->
-<!-- ## License -->
-<!-- This project is open source and available under the [... License](). -->
-
-<!-- You don't have to include all sections - just the one's relevant to your project -->
+Contributors:
+- Prabir Kumar Malik 
+- Sreejith Rajashekaran
