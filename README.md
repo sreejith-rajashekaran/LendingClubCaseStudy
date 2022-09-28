@@ -1,7 +1,9 @@
 # Lending Club Usecase
 
 ## Objective
-Lending Club Case study is about an organization that is invovled in approving providing loans to individuals, based on the application that come from them. Lending to a risky applicant who would not pay the money back would result in huge financial loss for the organization. This leads to the fact that a thorough risk analysis would be required before a loan is approved or disapproved. This decision making is primarily based on the analytics build on top of the data set. 
+Lending Club Case study is about an organization that is invovled in approving providing loans to individuals, based on the application that come from them. The ultimate aim is to mitigate credit rsik.  
+
+To put it very simply, credit risk refers to the risk of loss that a lender faces due to a borrower’s failure to repay any type of loan or debt. In the personal lending space, the practice of credit risk assessment deals with ascertaining whether or not an individual should be awarded a certain amount of credit. Lending to a risky applicant who would not pay the money back would result in huge financial loss for the organization. This leads to the fact that a thorough risk analysis would be required before a loan is approved or disapproved. This decision making is primarily based on the analytics build on top of the data set. 
 
 The main objective is to be able to identify these risky loan applicants, then such loans can be reduced thereby cutting down the amount of credit loss. 
 Consuming EDA as the primarily tool for performing these analysis and coming to a dedicated concludsion is the aim of this case study. 
