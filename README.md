@@ -9,6 +9,13 @@ The main objective is to be able to identify these risky loan applicants, then s
 Consuming EDA as the primarily tool for performing these analysis and coming to a dedicated concludsion is the aim of this case study. 
 
 ## Table of Contents
+* [General Info](#general-information)
+* [Introduction](#introduction)
+* [Technologies Used](#libraries-used)
+* [Overview Of Analysis](#overview-of-analysis)
+* * * [Understanding Problem](#understanding)
+* [Conclusions](#conclusions)
+* [Contributors](#contributors)
 1. Basic visualization of data 
 2. Categorizing the data 
 3. Data Cleansing 
@@ -49,5 +56,5 @@ Consuming EDA as the primarily tool for performing these analysis and coming to 
 - Seaborn
 
 ## Contributors
-- Prabir Kumar Malik 
+- Prabir Kumar Mallick 
 - Sreejith Rajashekaran
