@@ -50,20 +50,15 @@ Consuming EDA as the primarily tool for performing these analysis and coming to 
 
 ## data-cleansing
 
-## segmented-univariate-analysis
+## derived-variables
 
+## segmented-univariate-analysis
 
 ## bivariate-analysis
 
-
-## derived-variables
-
-
 ## plotting-for-visualization
 
-
 ## filtering-data
-
 
 ## correlation
 
