@@ -16,6 +16,8 @@ Consuming EDA as the primarily tool for performing these analysis and coming to 
 * * [Understanding Problem](#understanding)
 * [Conclusions](#conclusions)
 * [Contributors](#contributors)
+
+## Data Processing Steps
 1. Basic visualization of data 
 2. Categorizing the data 
 3. Data Cleansing 
