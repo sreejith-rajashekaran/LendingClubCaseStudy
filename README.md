@@ -19,16 +19,19 @@ Consuming EDA as the primarily tool for performing these analysis and coming to 
 
 
 ## General Information
-- Provide general information about your project here.
+
   Project is primarily aimed at helping a lending organization come up with a data analysis model which can be help them mitigate risk of financial loss by lending loans to risky applicants. 
   
 - What is the background of your project?
+
   The usecase is primarily designed to evaluate our understanding of EDA and how to implement the various concepts that we learnt in solving a real world problem. 
   
 - What is the business probem that your project is trying to solve?
+
   Helping a lending organization make rational decisions on approving loans, to mitigate financial loss. 
   
 - What is the dataset that is being used?
+
   Complete loan data for all loans issued through the time period 2007 t0 2011.
 
 ## Conclusions
