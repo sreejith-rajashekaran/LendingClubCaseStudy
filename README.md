@@ -43,6 +43,6 @@ Consuming EDA as the primarily tool for performing these analysis and coming to 
 - Matplotlib
 - Seaborn
 
-Contributors:
+##Contributors
 - Prabir Kumar Malik 
 - Sreejith Rajashekaran
