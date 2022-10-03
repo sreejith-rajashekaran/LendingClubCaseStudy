@@ -75,6 +75,7 @@ Consuming EDA as the primarily tool for performing these analysis and coming to 
 - Pandas 
 - Matplotlib
 - Seaborn
+- plotly
 
 ## Contributors
 - Prabir Kumar Mallick [@mallickp]
