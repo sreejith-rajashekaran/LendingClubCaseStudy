@@ -82,10 +82,11 @@ Finally, we try to plot a correlation matrix, to get an indepth view inot the im
 
 
 ## Conclusions
-- Conclusion 1 from the analysis
-- Conclusion 2 from the analysis
-- Conclusion 3 from the analysis
-- Conclusion 4 from the analysis
+- Stop Approving higher loan amount > 35K
+- Stop Approving loan higher dti >18
+- Stop Approving the loan without home ownership specified
+- Avoid to approve sub grade after D1 onwards as it likely to defaulter
+- Start  to retrospect  validating process as after validated many applicants are defaulter
 
 
 ## Libraries Used
